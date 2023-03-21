@@ -1,0 +1,11 @@
+            WHITE HOUSE DRYCLEANERS           
+            Kataria Market  Link Road          
+==============================================
+
+Bill No: 1
+Name: yajush
+Phone No: 123456789
+==============================================
+Product			Qty		Price
+==============================================
+Blanket Dry-clean			2		320

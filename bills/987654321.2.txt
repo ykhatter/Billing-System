@@ -1,0 +1,11 @@
+            WHITE HOUSE DRYCLEANERS           
+            Kataria Market  Link Road          
+==============================================
+
+Bill No: 2
+Name: aanchal
+Phone No: 987654321
+==============================================
+Product			Qty		Price
+==============================================
+Shirt Steam-Press			4		80
